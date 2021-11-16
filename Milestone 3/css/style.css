@@ -1,5 +1,20 @@
+main{
+    background-color: #083b4c;
+}
 /* Il row-cols funziona fino a 6, imposto io il 7 secondo gli stessi procedimenti di Bootstrap */
 .row-cols-7 > *{
     flex: 0 0 auto;
     width: calc(100% / 7);
+}
+.number_bg{
+    background-color: #1389b2;
+}
+.fizz_bg{
+    background-color: #0bd6a1;
+}
+.buzz_bg{
+    background-color: #ffd166;
+}
+.fizzbuzz_bg{
+    background-color: #f0466f;
 }
