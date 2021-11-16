@@ -22,7 +22,7 @@ for(let i = 1; i <= 1000; i++){
         backgroundClass = `number_bg`;
     }
 
-    // console.log(numberOrWord);
+    console.log(numberOrWord);
 
     let mainRow = document.querySelector('.row');
     mainRow.innerHTML += `<div class="col"><div class="d-flex justify-content-center align-items-center p-5 fw-bolder ${backgroundClass}">${numberOrWord}</div></div>`;
