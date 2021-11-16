@@ -1,0 +1,5 @@
+/* Il row-cols funziona fino a 6, in questo caso devo impostare io la flex-basis delle colonne
+    Uso la width in % come fa Bootstrap */
+.col_7{
+    width: calc(100% / 7);
+}
