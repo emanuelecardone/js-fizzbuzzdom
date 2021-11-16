@@ -21,7 +21,7 @@ for(let i = 1; i <= 1000; i++){
     // console.log(numberOrWord);
 
     let mainRow = document.querySelector('.row');
-    mainRow.innerHTML += `<div class="col_7"><div class="d-flex justify-content-center align-items-center p-5 fw-bolder">${numberOrWord}</div></div>`;
+    mainRow.innerHTML += `<div class="col"><div class="d-flex justify-content-center align-items-center p-5 fw-bolder">${numberOrWord}</div></div>`;
 
 }
 
