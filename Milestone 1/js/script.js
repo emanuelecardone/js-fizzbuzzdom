@@ -7,7 +7,7 @@
 // Per i numeri che sono sia multipli di 3 che di 5 stampi in console FizzBuzz.
 
 
-for(let i = 1; i <= 1000; i++){
+for(let i = 1; i <= 100; i++){
     
     let numberOrWord;
     

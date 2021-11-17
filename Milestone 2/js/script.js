@@ -6,7 +6,7 @@
 // Dato un container nel DOM, appendi un elemento html con il numero o la stringa corretta.
 
 
-for(let i = 1; i <= 1000; i++){
+for(let i = 1; i <= 100; i++){
 
     let numberOrWord;
 
